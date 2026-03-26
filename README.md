@@ -10,9 +10,9 @@ I work at the intersection of data, strategy, and decision-making — turning me
 
 | Project | Description | Tools |
 |---|---|---|
-| [High Note: Freemium Conversion](https://jfleee02.github.io/high-note-causal-analytics/) | Causal inference study identifying the effect of peer influence on premium subscription adoption | Python · PSM · Logistic Regression |
-| [Credit Card Approval Prediction](https://jfleee02.github.io/credit-card-approval/) | Full ML pipeline benchmarking 6 classifier families with bias audit | Python · scikit-learn · XGBoost · SHAP |
-| [Predicting Yelp Ratings](https://jfleee02.github.io/yelp-rating-prediction/) | ML study testing whether platform engagement signals (review volume, hours, delivery) predict restaurant ratings better than physical amenities — across 150K records | Python · XGBoost · Random Forest · scikit-learn |
+| [High Note: Freemium Conversion]([https://jfleee02.github.io/high-note-causal-analytics/](https://github.com/jfleee02/high-note--causal-analytics)) | Causal inference study identifying the effect of peer influence on premium subscription adoption | Python · PSM · Logistic Regression |
+| [Credit Card Approval Prediction][(https://jfleee02.github.io/credit-card-approval/](https://github.com/jfleee02/credit_card_approval) | Full ML pipeline benchmarking 6 classifier families with bias audit | Python · scikit-learn · XGBoost · SHAP |
+| [Predicting Yelp Ratings](https://github.com/jfleee02/yelp_rating_prediction) | ML study testing whether platform engagement signals (review volume, hours, delivery) predict restaurant ratings better than physical amenities — across 150K records | Python · XGBoost · Random Forest · scikit-learn |
 
 ---
 
