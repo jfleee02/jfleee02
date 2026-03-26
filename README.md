@@ -2,7 +2,7 @@
 # Hi, I'm Jonathan 👋
 
 **Business Analytics student at the Paul Merage School of Business, UC Irvine.**  
-I work at the intersection of data, strategy, and decision-making — turning messy datasets into clear, actionable insights.
+I work at the intersection of data, strategy, and decision-making by turning messy datasets into clear, actionable insights.
 
 ---
 
