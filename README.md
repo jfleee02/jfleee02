@@ -1,4 +1,4 @@
-[README_profile.md](https://github.com/user-attachments/files/26260880/README_profile.md)
+[README_profile.md](https://github.com/user-attachments/files/26261151/README_profile.md)
 # Hi, I'm Jonathan 👋
 
 **Business Analytics student at the Paul Merage School of Business, UC Irvine.**  
@@ -12,7 +12,7 @@ I work at the intersection of data, strategy, and decision-making — turning me
 |---|---|---|
 | [High Note: Freemium Conversion](https://jfleee02.github.io/high-note-causal-analytics/) | Causal inference study identifying the effect of peer influence on premium subscription adoption | Python · PSM · Logistic Regression |
 | [Credit Card Approval Prediction](https://jfleee02.github.io/credit-card-approval/) | Full ML pipeline benchmarking 6 classifier families with bias audit | Python · scikit-learn · XGBoost · SHAP |
-| [Predicting Yelp Ratings](https://jfleee02.github.io/yelp-rating-prediction/) | *(Coming soon)* | — |
+| [Predicting Yelp Ratings](https://jfleee02.github.io/yelp-rating-prediction/) | ML study testing whether platform engagement signals (review volume, hours, delivery) predict restaurant ratings better than physical amenities — across 150K records | Python · XGBoost · Random Forest · scikit-learn |
 
 ---
 
