@@ -1,7 +1,7 @@
 [README_profile.md](https://github.com/user-attachments/files/26261151/README_profile.md)
 # Hi, I'm Jonathan 👋
 
-**Business Analytics student at the Paul Merage School of Business, UC Irvine.**  
+**Graduate of the Business Analytics program at the Paul Merage School of Business, UC Irvine.**  
 I work at the intersection of data, strategy, and decision-making by turning messy datasets into clear, actionable insights.
 
 ---
@@ -29,5 +29,3 @@ I work at the intersection of data, strategy, and decision-making by turning mes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan%20Lee-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-lee-6a2633268)
 
 ---
-
-*B.S. Business Administration · Concentration in Business Analytics · UC Irvine*
