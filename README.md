@@ -1,4 +1,4 @@
-[README_profile.md](https://github.com/user-attachments/files/26261151/README_profile.md)
+﻿[README_profile.md](https://github.com/user-attachments/files/26261151/README_profile.md)
 # Hi, I'm Jonathan 👋
 
 **Graduate of the Business Analytics program at the Paul Merage School of Business, UC Irvine.**  
@@ -10,6 +10,7 @@ I work at the intersection of data, strategy, and decision-making by turning mes
 
 | Project | Description | Tools |
 |---|---|---|
+| [NBFF Festival Insights Dashboard](https://nbff-insights-public.vercel.app) | Live interactive analytics dashboard for a music festival — revenue overview, ticket-sales forecasting, geographic heatmaps, customer segmentation, and purchase-pattern analysis (live demo, synthetic data) | TypeScript · React · Vite · Express · Vercel |
 | [High Note: Freemium Conversion](https://github.com/jfleee02/high_note_causal_analytics) | Causal inference study identifying the effect of peer influence on premium subscription adoption | Python · PSM · Logistic Regression |
 | [Credit Card Approval Prediction](https://github.com/jfleee02/credit_card_approval) | Full ML pipeline benchmarking 6 classifier families with bias audit | Python · scikit-learn · XGBoost · SHAP |
 | [Predicting Yelp Ratings](https://github.com/jfleee02/yelp_rating_prediction) | ML study testing whether platform engagement signals (review volume, hours, delivery) predict restaurant ratings better than physical amenities — across 150K records | Python · XGBoost · Random Forest · scikit-learn |
